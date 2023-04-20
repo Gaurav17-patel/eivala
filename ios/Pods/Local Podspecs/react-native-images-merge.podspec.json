@@ -1,0 +1,25 @@
+{
+  "name": "react-native-images-merge",
+  "version": "1.1.4",
+  "summary": "Combine square images vertically",
+  "description": "react-native-images-merge",
+  "homepage": "https://github.com/cristea2017/react-native-images-merge",
+  "license": "MIT",
+  "authors": {
+    "cristea2017": "victor.kristea@mail.ru"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/cristea2017/react-native-images-merge.git",
+    "tag": "1.1.4"
+  },
+  "source_files": "ios/**/*.{h,c,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

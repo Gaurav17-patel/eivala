@@ -1,0 +1,12 @@
+//Constants for the reducers and actions
+
+export const START_REQUEST = "START_REQUEST";
+export const END_REQUEST = "END_REQUEST";
+export const RESP_ERROR = "RESP_ERROR";
+export const MSG_ERROR = "MSG_ERROR";
+
+//ChatList
+export const GET_CUSTOMER_LIST = "GET_CHAT_LIST";
+export const GET_CUSTOMER_COUNT_LIST = "GET_CUSTOMER_COUNT_LIST";
+export const SEND_CUSTOMER_MESSAGES = "SEND_CUSTOMER_MESSAGES";
+export const LOAD_CUSTOMER_PREVIOUS_MESSAGES = "LOAD_CUSTOMER_PREVIOUS_MESSAGES";

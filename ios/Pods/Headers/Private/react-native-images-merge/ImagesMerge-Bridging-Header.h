@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-images-merge/ios/ImagesMerge-Bridging-Header.h

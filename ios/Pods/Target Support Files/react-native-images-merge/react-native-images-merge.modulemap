@@ -1,0 +1,6 @@
+module react_native_images_merge {
+  umbrella header "react-native-images-merge-umbrella.h"
+
+  export *
+  module * { export * }
+}

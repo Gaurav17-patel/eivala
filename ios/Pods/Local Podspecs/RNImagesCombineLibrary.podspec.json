@@ -1,0 +1,25 @@
+{
+  "name": "RNImagesCombineLibrary",
+  "version": "1.0.27",
+  "summary": "RNImagesCombineLibrary",
+  "description": "RNImagesCombineLibrary combine images",
+  "homepage": "https://www.npmjs.com/package/react-native-images-combine",
+  "license": "MIT",
+  "authors": {
+    "author": "author@domain.cn"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/author/react-native-images-combine.git",
+    "tag": "master"
+  },
+  "source_files": "ios/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

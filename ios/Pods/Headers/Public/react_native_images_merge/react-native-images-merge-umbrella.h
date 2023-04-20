@@ -1,0 +1,1 @@
+../../../Target Support Files/react-native-images-merge/react-native-images-merge-umbrella.h

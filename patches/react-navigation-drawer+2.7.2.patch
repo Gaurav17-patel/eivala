@@ -1,0 +1,23 @@
+diff --git a/node_modules/react-navigation-drawer/lib/module/views/Drawer.js b/node_modules/react-navigation-drawer/lib/module/views/Drawer.js
+index 3f81450..c537af5 100644
+--- a/node_modules/react-navigation-drawer/lib/module/views/Drawer.js
++++ b/node_modules/react-navigation-drawer/lib/module/views/Drawer.js
+@@ -5,7 +5,7 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
+ import * as React from 'react';
+ import { StyleSheet, I18nManager, Platform, Keyboard, StatusBar } from 'react-native';
+ import { PanGestureHandler, TapGestureHandler, State } from 'react-native-gesture-handler';
+-import Animated from 'react-native-reanimated';
++import Animated, { interpolateNode } from 'react-native-reanimated';
+ import DrawerProgressContext from '../utils/DrawerProgressContext';
+ const {
+   Clock,
+@@ -331,7 +331,8 @@ export default class Drawer extends React.PureComponent {
+       onHandlerStateChange: this.handleTapStateChange
+     }, /*#__PURE__*/React.createElement(Animated.View, {
+       style: [styles.overlay, {
+-        opacity: interpolate(this.progress, {
++        // Apply patch
++        opacity: interpolateNode(this.progress, {
+           inputRange: [PROGRESS_EPSILON, 1],
+           outputRange: [0, 1]
+         }),

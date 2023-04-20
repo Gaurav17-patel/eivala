@@ -1,0 +1,958 @@
+[
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_tickets_attachment.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_tickets_attachment.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_node_modules_mdndata_css_properties.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/node_modules_mdndata_css_properties.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_filter.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_filter.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_login_clientidmodal_clientid.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_login_clientidmodal_clientid.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_login_password.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_login_password.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_crossarrowdown.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_crossarrowdown.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_tickets_send.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_tickets_send.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_dashboard_blacknoti.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_dashboard_blacknoti.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_sidemenu_support.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_sidemenu_support.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_selected_edit_user.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_selected_edit_user.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_risk_pdf.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_risk_pdf.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_folderlist_greenfolder.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_folderlist_greenfolder.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_sidemenu_sidemenudashboard.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_sidemenu_sidemenudashboard.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_sidemenu_person.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_sidemenu_person.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_share.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_share.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_selected_user_profile.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_selected_user_profile.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_tickets_filleattachment.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_tickets_filleattachment.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_general_search_search_white.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_general_search_search_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_sidemenu_uparrow.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_sidemenu_uparrow.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_login_password.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_login_password.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_upload.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_upload.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_general_drawerlogo_drawer.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_general_drawerlogo_drawer.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_skip.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_skip.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_tickets_ticketclose.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_tickets_ticketclose.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_sidemenu_uparrow.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_sidemenu_uparrow.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_tickets_menudown.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_tickets_menudown.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_general_logo_app_logo.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_general_logo_app_logo.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_tickets_send.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_tickets_send.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_risk_pdf.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_risk_pdf.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_notifications_check.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_notifications_check.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_dropdownarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_dropdownarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_sidemenu_person.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_sidemenu_person.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_general_backleftarrow_leftarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_general_backleftarrow_leftarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_folderlist_checkmark.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_folderlist_checkmark.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_selected_frame.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_selected_frame.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_sidemenu_notifications.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_sidemenu_notifications.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_node_modules_mdndata_css_atrules.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/node_modules_mdndata_css_atrules.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_profile_defaultuser.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_profile_defaultuser.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_general_backleftarrow_leftarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_general_backleftarrow_leftarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_selected_edit_user.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_selected_edit_user.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_calender.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_calender.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_sidemenu_ellipse.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_sidemenu_ellipse.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_selected_frame.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_selected_frame.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_sidemenu_logout.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_sidemenu_logout.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_notifications_check.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_notifications_check.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_unselect_edit_user.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_unselect_edit_user.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_general_logo_app_logo.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_general_logo_app_logo.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_user_status.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_user_status.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_login_password.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_login_password.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_tickets_ticketclose.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_tickets_ticketclose.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_views_assets_backiconmask.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_unselect_add_user.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_unselect_add_user.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-ldpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-ldpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_tickets_ticketclose.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_tickets_ticketclose.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_general_logo_app_logo.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_general_logo_app_logo.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_general_alavietext_mainlogo_logo_main.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_general_alavietext_mainlogo_logo_main.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_sidemenu_sidemenudashboard.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_sidemenu_sidemenudashboard.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_login_email.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_login_email.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_pdfdoc.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_pdfdoc.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_nextbtndesign.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_nextbtndesign.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_sidemenu_operations.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_sidemenu_operations.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_tickets_attachment.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_tickets_attachment.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_login_contactnumlogo.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_login_contactnumlogo.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_unselect_add_user.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_unselect_add_user.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_sidemenu_languageselarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_sidemenu_languageselarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_tickets_filleattachment.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_tickets_filleattachment.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_folderlist_redfolder.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_folderlist_redfolder.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_arrowdownright.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_arrowdownright.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_profile_camera.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_profile_camera.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_filter.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_filter.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_node_modules_csstree_package.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/node_modules_csstree_package.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_sidemenu_notifications.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_sidemenu_notifications.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_sidemenu_languageselarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_sidemenu_languageselarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_crossarrowdown.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_crossarrowdown.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_info.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_info.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_risk_download.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_risk_download.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_search.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_search.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_folderlist_checkmark.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_folderlist_checkmark.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_dashboard_whitenoti.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_dashboard_whitenoti.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_nextbtndesign.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_nextbtndesign.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_general_alavietext_mainlogo_logo_main.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_general_alavietext_mainlogo_logo_main.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_sidemenu_operations.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_sidemenu_operations.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_nextbtndesign.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_nextbtndesign.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_general_search_search_white.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_general_search_search_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_radio_unselect.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_radio_unselect.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_dashboard_blacknoti.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_dashboard_blacknoti.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_unselected_frame.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_unselected_frame.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_share.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_share.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativerouterflux_images_menu_burger.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/node_modules_reactnativerouterflux_images_menu_burger.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_general_search_search_black.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_general_search_search_black.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_folderlist_checkmark.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_folderlist_checkmark.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_folderlist_greenfolder.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_folderlist_greenfolder.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_login_contactnumlogo.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_login_contactnumlogo.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativespeedometer_images_speedometerneedle.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/node_modules_reactnativespeedometer_images_speedometerneedle.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_app.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/app.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_assets_fusioncharts.html.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/assets_fusioncharts.html"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_radio_select.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_radio_select.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_sidemenu_logout.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_sidemenu_logout.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_logo.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_login_clientidmodal_clientid.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_login_clientidmodal_clientid.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_general_backleftarrow_leftarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_general_backleftarrow_leftarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_login_user_email.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_login_user_email.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_sidemenu_downarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_sidemenu_downarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_dashboard_whitenoti.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_dashboard_whitenoti.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_tickets_ticketopen.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_tickets_ticketopen.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_unselect_edit_user.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_unselect_edit_user.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_tickets_line.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_tickets_line.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_sidemenu_person.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_sidemenu_person.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_down.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_down.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_risk_download.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_risk_download.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_search.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_search.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_sidemenu_risk.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_sidemenu_risk.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_profile_rightsidearr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_profile_rightsidearr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_profile_rightsidearr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_profile_rightsidearr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_selected_user_profile.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_selected_user_profile.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_folderlist_greenfolder.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_folderlist_greenfolder.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_folderlist_redfolder.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_folderlist_redfolder.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_login_user_email.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_login_user_email.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_risk_pdf.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_risk_pdf.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_selected_user_profile.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_selected_user_profile.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_dashboard_blacknoti.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_dashboard_blacknoti.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_tickets_menudown.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_tickets_menudown.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_camera.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_camera.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_sidemenu_ellipse.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_sidemenu_ellipse.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_sidemenu_notifications.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_sidemenu_notifications.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_info.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_info.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_node_modules_mdndata_css_syntaxes.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/node_modules_mdndata_css_syntaxes.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_sidemenu_sidemenudashboard.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_sidemenu_sidemenudashboard.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_locationpin.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_locationpin.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_down.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_down.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_general_alavietext_mainlogo_logo_main.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_general_alavietext_mainlogo_logo_main.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_general_search_search_white.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_general_search_search_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_dashboard_whitenoti.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_dashboard_whitenoti.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_tickets_menudown.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_tickets_menudown.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_login_email.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_login_email.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_risk_download.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_risk_download.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_login_pass_show.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_login_pass_show.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_arrowdownright.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_arrowdownright.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_share.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_share.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_sidemenu_risk.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_sidemenu_risk.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_sidemenu_uparrow.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_sidemenu_uparrow.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_general_nodata_nodatafound.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_general_nodata_nodatafound.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_pdfdoc.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_pdfdoc.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_pdfdoc.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_pdfdoc.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_login_email.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_login_email.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_folderlist_redfolder.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_folderlist_redfolder.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_sidemenu_operations.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_sidemenu_operations.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_dropdownarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_dropdownarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_sidemenu_languageselarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_sidemenu_languageselarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_test_ellipse.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_test_ellipse.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_sidemenu_ellipse.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_sidemenu_ellipse.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_tickets_send.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_tickets_send.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_tickets_filleattachment.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_tickets_filleattachment.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_radio_select.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_radio_select.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_selected_frame.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_selected_frame.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_upload.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_upload.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_test_ellipse.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_test_ellipse.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_sidemenu_logout.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_sidemenu_logout.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_node_modules_reactnativesvg_node_modules_cssselect_lib_procedure.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/node_modules_reactnativesvg_node_modules_cssselect_lib_procedure.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_general_search_search_black.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_general_search_search_black.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_tickets_ticketopen.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_tickets_ticketopen.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_radio_select.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_radio_select.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_general_drawerlogo_drawer.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_general_drawerlogo_drawer.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_folderlist_orangefolder.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_folderlist_orangefolder.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_skip.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_skip.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_sidemenu_risk.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_sidemenu_risk.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_profile_rightsidearr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_profile_rightsidearr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_user_status.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_user_status.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_test_ellipse.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_test_ellipse.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_login_clientidmodal_clientid.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_login_clientidmodal_clientid.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_close.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_close.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_locationpin.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_locationpin.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_sidemenu_downarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_sidemenu_downarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_tickets_line.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_tickets_line.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_locationpin.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_locationpin.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_profile_camera.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_profile_camera.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_arrowdownright.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_arrowdownright.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_node_modules_csstree_data_patch.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/node_modules_csstree_data_patch.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_crossarrowdown.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_crossarrowdown.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_unselected_frame.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_unselected_frame.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_unselect_edit_user.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_unselect_edit_user.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_tickets_attachment.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_tickets_attachment.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_login_pass_hide.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_login_pass_hide.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_unselect_add_user.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_unselect_add_user.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_sidemenu_support.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_sidemenu_support.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_selected_edit_user.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_selected_edit_user.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_general_search_search_black.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_general_search_search_black.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_customers_search.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_customers_search.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_unselected_frame.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_unselected_frame.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_login_user_email.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_login_user_email.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_user_status.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_user_status.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_info.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_info.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_sidemenu_downarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_sidemenu_downarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_profile_defaultuser.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_profile_defaultuser.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_upload.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_upload.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_skip.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_skip.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_down.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_down.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_filter.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_filter.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_notifications_check.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_notifications_check.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_customers_radio_unselect.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_customers_radio_unselect.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_profile_defaultuser.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_profile_defaultuser.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_profile_camera.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_profile_camera.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_general_drawerlogo_drawer.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_general_drawerlogo_drawer.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_tickets_ticketopen.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_tickets_ticketopen.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativerouterflux_images_back_chevron.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/node_modules_reactnativerouterflux_images_back_chevron.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_radio_unselect.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_radio_unselect.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_dropdownarr.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_dropdownarr.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_sidemenu_support.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xxhdpi/src_assets_images_sidemenu_support.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_tickets_line.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-xhdpi/src_assets_images_tickets_line.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/raw_node_modules_reactnativesvg_node_modules_domserializer_foreignnames.json.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/raw/node_modules_reactnativesvg_node_modules_domserializer_foreignnames.json"
+    },
+    {
+        "merged": "/Users/apple/Documents/Source/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_customers_gallery.png.flat",
+        "source": "/Users/apple/Documents/Source/android/app/src/main/res/drawable-mdpi/src_assets_images_customers_gallery.png"
+    }
+]

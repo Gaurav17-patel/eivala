@@ -1,0 +1,252 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.alavie"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/apple/Documents/Source/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/apple/Documents/Source/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:5:5-64
+13-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:6:5-79
+14-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:6:22-77
+15
+16    <uses-feature
+16-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:7:5-85
+17        android:name="android.hardware.camera"
+17-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:7:19-57
+18        android:required="false" />
+18-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:7:58-82
+19    <uses-feature
+19-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:8:5-91
+20        android:name="android.hardware.camera.front"
+20-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:8:19-63
+21        android:required="false" />
+21-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:8:64-88
+22
+23    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+23-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:9:5-80
+23-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:9:22-78
+24    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+24-->[com.facebook.flipper:flipper:0.125.0] /Users/apple/.gradle/caches/transforms-3/f459484025099807ab553e4162bff15b/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+24-->[com.facebook.flipper:flipper:0.125.0] /Users/apple/.gradle/caches/transforms-3/f459484025099807ab553e4162bff15b/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+25-->[:react-native-community_netinfo] /Users/apple/Documents/Source/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+25-->[:react-native-community_netinfo] /Users/apple/Documents/Source/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+26
+27    <queries>
+27-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+28        <intent>
+28-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+29            <action android:name="android.media.action.IMAGE_CAPTURE" />
+29-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-73
+29-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-70
+30        </intent>
+31    </queries> <!-- Required to access Google Play Licensing -->
+32    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+32-->[:rn-fetch-blob] /Users/apple/Documents/Source/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-73
+32-->[:rn-fetch-blob] /Users/apple/Documents/Source/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-70
+33    <!--
+34         Required to keep CPU alive while downloading files
+35        (NOT to keep screen awake)
+36    -->
+37    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+37-->[:rn-fetch-blob] /Users/apple/Documents/Source/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-68
+37-->[:rn-fetch-blob] /Users/apple/Documents/Source/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:22-65
+38    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+38-->[com.google.android.gms:play-services-iid:17.0.0] /Users/apple/.gradle/caches/transforms-3/70784b6db465f542f749ddd73638f5e7/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+38-->[com.google.android.gms:play-services-iid:17.0.0] /Users/apple/.gradle/caches/transforms-3/70784b6db465f542f749ddd73638f5e7/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+39    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+39-->[com.android.installreferrer:installreferrer:1.1.2] /Users/apple/.gradle/caches/transforms-3/040c48118e6ce19771a21ebc90c39fab/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+39-->[com.android.installreferrer:installreferrer:1.1.2] /Users/apple/.gradle/caches/transforms-3/040c48118e6ce19771a21ebc90c39fab/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+40
+41    <application
+41-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:11:5-38:19
+42        android:name="com.alavie.MainApplication"
+42-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:12:7-38
+43        android:allowBackup="false"
+43-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:16:7-34
+44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+44-->[androidx.core:core:1.7.0] /Users/apple/.gradle/caches/transforms-3/94ec8cdf67b1bbbc630eb7a3aacaa531/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+45        android:debuggable="true"
+46        android:icon="@mipmap/ic_launcher"
+46-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:14:7-41
+47        android:label="@string/app_name"
+47-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:13:7-39
+48        android:roundIcon="@mipmap/ic_launcher_round"
+48-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:15:7-52
+49        android:theme="@style/AppTheme"
+49-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:18:7-38
+50        android:usesCleartextTraffic="true" >
+50-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:17:7-42
+51        <activity
+51-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:19:9-24:20
+52            android:name="com.alavie.SplashActivity"
+52-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:19:19-49
+53            android:exported="true" >
+53-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:19:50-73
+54            <intent-filter>
+54-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:20:13-23:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:21:17-69
+55-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:21:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:22:17-77
+57-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:22:27-74
+58            </intent-filter>
+59        </activity>
+60        <activity
+60-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:25:7-36:18
+61            android:name="com.alavie.MainActivity"
+61-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:26:9-37
+62            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+62-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:28:9-118
+63            android:exported="true"
+63-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:31:9-32
+64            android:label="@string/app_name"
+64-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:27:9-41
+65            android:launchMode="singleTask"
+65-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:29:9-40
+66            android:windowSoftInputMode="adjustPan" >
+66-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:30:9-48
+67
+68            <!-- <intent-filter> -->
+69            <!-- <action android:name="android.intent.action.MAIN" /> -->
+70            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+71            <!-- </intent-filter> -->
+72        </activity>
+73        <activity
+73-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:37:7-109
+74            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+74-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:37:17-81
+75            android:exported="false" />
+75-->/Users/apple/Documents/Source/android/app/src/main/AndroidManifest.xml:37:82-106
+76
+77        <provider
+77-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+78            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+78-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-94
+79            android:authorities="com.alavie.provider"
+79-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-60
+80            android:exported="false"
+80-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+81            android:grantUriPermissions="true" >
+81-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+82            <meta-data
+82-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:78
+83                android:name="android.support.FILE_PROVIDER_PATHS"
+83-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+84                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+84-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-75
+85        </provider>
+86
+87        <activity
+87-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-30:72
+88            android:name="com.yalantis.ucrop.UCropActivity"
+88-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-60
+89            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+89-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-69
+90
+91        <provider
+91-->[:react-native-share] /Users/apple/Documents/Source/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+92            android:name="cl.json.RNShareFileProvider"
+92-->[:react-native-share] /Users/apple/Documents/Source/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-55
+93            android:authorities="com.alavie.rnshare.fileprovider"
+93-->[:react-native-share] /Users/apple/Documents/Source/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-72
+94            android:exported="false"
+94-->[:react-native-share] /Users/apple/Documents/Source/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+95            android:grantUriPermissions="true" >
+95-->[:react-native-share] /Users/apple/Documents/Source/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+96            <meta-data
+96-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:78
+97                android:name="android.support.FILE_PROVIDER_PATHS"
+97-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+98                android:resource="@xml/share_download_paths" />
+98-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-75
+99        </provider>
+100        <provider
+100-->[:react-native-webview] /Users/apple/Documents/Source/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+101            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+101-->[:react-native-webview] /Users/apple/Documents/Source/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
+102            android:authorities="com.alavie.fileprovider"
+102-->[:react-native-webview] /Users/apple/Documents/Source/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
+103            android:exported="false"
+103-->[:react-native-webview] /Users/apple/Documents/Source/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+104            android:grantUriPermissions="true" >
+104-->[:react-native-webview] /Users/apple/Documents/Source/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+105            <meta-data
+105-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:78
+106                android:name="android.support.FILE_PROVIDER_PATHS"
+106-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+107                android:resource="@xml/file_provider_paths" />
+107-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-75
+108        </provider>
+109        <provider
+109-->[:rn-fetch-blob] /Users/apple/Documents/Source/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-42:20
+110            android:name="com.RNFetchBlob.Utils.FileProvider"
+110-->[:rn-fetch-blob] /Users/apple/Documents/Source/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-62
+111            android:authorities="com.alavie.provider"
+111-->[:rn-fetch-blob] /Users/apple/Documents/Source/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-60
+112            android:exported="false"
+112-->[:rn-fetch-blob] /Users/apple/Documents/Source/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-37
+113            android:grantUriPermissions="true" >
+113-->[:rn-fetch-blob] /Users/apple/Documents/Source/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-47
+114            <meta-data
+114-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:78
+115                android:name="android.support.FILE_PROVIDER_PATHS"
+115-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+116                android:resource="@xml/provider_paths" />
+116-->[:react-native-image-crop-picker] /Users/apple/Documents/Source/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-75
+117        </provider>
+118
+119        <activity
+119-->[com.google.android.gms:play-services-base:17.0.0] /Users/apple/.gradle/caches/transforms-3/4dd5708a8412af0e767bdb70ad74183f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+120            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+120-->[com.google.android.gms:play-services-base:17.0.0] /Users/apple/.gradle/caches/transforms-3/4dd5708a8412af0e767bdb70ad74183f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+121            android:exported="false"
+121-->[com.google.android.gms:play-services-base:17.0.0] /Users/apple/.gradle/caches/transforms-3/4dd5708a8412af0e767bdb70ad74183f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+122            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+122-->[com.google.android.gms:play-services-base:17.0.0] /Users/apple/.gradle/caches/transforms-3/4dd5708a8412af0e767bdb70ad74183f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+123
+124        <meta-data
+124-->[com.google.android.gms:play-services-basement:17.0.0] /Users/apple/.gradle/caches/transforms-3/b285774c01a077627a0ddbcafb0b8de5/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+125            android:name="com.google.android.gms.version"
+125-->[com.google.android.gms:play-services-basement:17.0.0] /Users/apple/.gradle/caches/transforms-3/b285774c01a077627a0ddbcafb0b8de5/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+126            android:value="@integer/google_play_services_version" />
+126-->[com.google.android.gms:play-services-basement:17.0.0] /Users/apple/.gradle/caches/transforms-3/b285774c01a077627a0ddbcafb0b8de5/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+127
+128        <provider
+128-->[androidx.emoji2:emoji2:1.0.0] /Users/apple/.gradle/caches/transforms-3/96b2fdbacc2bce9188123e84f67b7d84/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+129            android:name="androidx.startup.InitializationProvider"
+129-->[androidx.emoji2:emoji2:1.0.0] /Users/apple/.gradle/caches/transforms-3/96b2fdbacc2bce9188123e84f67b7d84/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+130            android:authorities="com.alavie.androidx-startup"
+130-->[androidx.emoji2:emoji2:1.0.0] /Users/apple/.gradle/caches/transforms-3/96b2fdbacc2bce9188123e84f67b7d84/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+131            android:exported="false" >
+131-->[androidx.emoji2:emoji2:1.0.0] /Users/apple/.gradle/caches/transforms-3/96b2fdbacc2bce9188123e84f67b7d84/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+132            <meta-data
+132-->[androidx.emoji2:emoji2:1.0.0] /Users/apple/.gradle/caches/transforms-3/96b2fdbacc2bce9188123e84f67b7d84/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+133                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+133-->[androidx.emoji2:emoji2:1.0.0] /Users/apple/.gradle/caches/transforms-3/96b2fdbacc2bce9188123e84f67b7d84/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+134                android:value="androidx.startup" />
+134-->[androidx.emoji2:emoji2:1.0.0] /Users/apple/.gradle/caches/transforms-3/96b2fdbacc2bce9188123e84f67b7d84/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+135            <meta-data
+135-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/apple/.gradle/caches/transforms-3/2b88f6b13f0ee1cb6d5e65798bd9ff93/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+136                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+136-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/apple/.gradle/caches/transforms-3/2b88f6b13f0ee1cb6d5e65798bd9ff93/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+137                android:value="androidx.startup" />
+137-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/apple/.gradle/caches/transforms-3/2b88f6b13f0ee1cb6d5e65798bd9ff93/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+138        </provider>
+139    </application>
+140
+141</manifest>

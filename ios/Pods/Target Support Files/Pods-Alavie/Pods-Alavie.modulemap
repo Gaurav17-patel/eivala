@@ -1,0 +1,6 @@
+module Pods_Alavie {
+  umbrella header "Pods-Alavie-umbrella.h"
+
+  export *
+  module * { export * }
+}
